@@ -1,0 +1,200 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* navbar  */
+#hello {
+    height: 50px;
+    justify-content: space-between;
+    display: flex;
+}
+
+#hello img {
+    align-items: center;
+    height: 70%;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+
+#hello input {
+    margin-left: 10px;
+    color: rgb(121, 121, 121);
+    margin-top: 0.65%;
+    height: 25px;
+    width: 190px;
+    border-color: rgb(205, 205, 205);
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+/* firts part  */
+#first-part {
+    height: 800px;
+    background-color: antiquewhite;
+    display: flex;
+    background-image: url(/bandicam\ 2024-03-19\ 14-59-09-201.jpg);
+}
+
+#first-part div {
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 25%;
+    font-size: 30px;
+    color: white;
+}
+
+#first-part h1 {
+    font-size: 80px;
+}
+
+#first-part span {
+    color: aquamarine;
+}
+
+#button1 {
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#first-part button {
+    height: 62px;
+    width: 200px;
+    background-color: rgb(42, 124, 211);
+    color: white;
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+
+#first-part img {
+    height: 100px;
+}
+
+
+/* second portion  */
+
+#second-portion {
+    height: 470px;
+    display: flex;
+    justify-content: center;
+}
+
+#img1 {
+    margin-top: 100px;
+}
+
+#img2 {
+    margin-top: 200px;
+    margin-left: 80px;
+
+}
+
+/* second-portion-half  */
+#second-portion-half {
+    text-align: center;
+    display: flex;
+    height: 450px;
+}
+
+#second-portion-half div {
+    margin-left: 24%;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+#second-portion-half button {
+    background-color: rgb(19, 185, 240);
+    height: 60PX;
+    width: 180PX;
+    border-radius: 10PX;
+    border-color: rgb(19, 185, 240);
+    font-size: 18PX;
+    font-weight: 600;
+    color: white;
+}
+
+/* THIRD PAR  */
+
+#third-part {
+    height: 900px;
+    background-color: rgb(236, 237, 238);
+}
+
+#heading1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+#third-part img {
+    margin-left: 240px;
+    margin-top: 50PX;
+}
+
+/* FOURTH PORTION */
+
+#fourth-portion {
+    height: 500px;
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    justify-content: space-between;
+}
+
+#fourth-portion div {
+    text-align: center;
+    margin-left: 100px;
+    font-size: 30px;
+    color: white;
+}
+
+#fourth-portion img {
+    width: 50%;
+}
+
+#fourth-portion button {
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(19, 185, 240);
+    color: white;
+    font-size: 20px;
+}
+
+
+/* fifth portion  */
+
+#fifth-portion {
+    height: 700px;
+    background-color: rgb(252, 251, 245);
+}
+
+#fifth-portion button {
+    font-size: 20px;
+    background-color: rgb(45, 177, 221);
+    color: white;
+    border-color: rgb(45, 177, 221) ;
+}
+
+#button3 {
+    margin-left: 550px;
+    margin-top: 90px;
+    height: 60px;
+    width: 200px;
+}
+
+#button4 {
+    height: 60px;
+    width: 200px;
+}
+
+#button5 {
+    height: 60px;
+    width: 200px;
+}
+#fifth-portion img { margin-left: 300px; }
